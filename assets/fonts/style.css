@@ -4,11 +4,6 @@
    src: url('FZFengYKSJF_Xi/font.TTF');
 }
 @font-face {
-   font-family: 'simfang';
-   font-display: swap;
-   src: url('simfang/font.ttf');
-}
-@font-face {
    font-family: 'FZFengYKSJ_Zhun';
    font-display: swap;
    src: url('FZFengYKSJ_Zhun/font.TTF');
