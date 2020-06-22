@@ -1566,9 +1566,17 @@ section.lazy-placeholder:after {
 .cid-rVWGEx40d8 .mbr-section-subtitle {
   color: #767676;
 }
+.cid-s2ydLRZygN {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s2ydLRZygN .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rZg1eme7Z7 {
   background: #ffffff;
-  padding-top: 90px;
+  padding-top: 30px;
   padding-bottom: 0px;
 }
 .cid-rZg1eme7Z7 .image-block {
@@ -2519,6 +2527,46 @@ section.lazy-placeholder:after {
   padding-top: 30px;
   padding-bottom: 45px;
   background-color: #ffffff;
+}
+.cid-s2BRvd7ZVT {
+  padding-top: 60px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-s2BRvd7ZVT .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-s2BRvd7ZVT .media-row {
+  display: -webkit-flex;
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+.cid-s2BRvd7ZVT .team-item {
+  transition: all .2s;
+  margin-bottom: 2rem;
+}
+.cid-s2BRvd7ZVT .team-item .item-image img {
+  width: 100%;
+}
+.cid-s2BRvd7ZVT .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-s2BRvd7ZVT .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-s2BRvd7ZVT .team-item .item-social {
+  display: -webkit-flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-flex-wrap: wrap;
+  -webkit-justify-content: center;
+}
+.cid-s2BRvd7ZVT .team-item .item-social .socicon {
+  color: #232323;
+  font-size: 17px;
+}
+.cid-s2BRvd7ZVT .team-item .item-caption {
+  background: #efefef;
 }
 .cid-rVWgujgqDI {
   padding-top: 30px;
