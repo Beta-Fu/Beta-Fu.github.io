@@ -2535,6 +2535,7 @@ section.lazy-placeholder:after {
 }
 .cid-s2BRvd7ZVT .mbr-section-subtitle {
   color: #767676;
+  text-align: right;
 }
 .cid-s2BRvd7ZVT .media-row {
   display: -webkit-flex;
@@ -2567,6 +2568,9 @@ section.lazy-placeholder:after {
 }
 .cid-s2BRvd7ZVT .team-item .item-caption {
   background: #efefef;
+}
+.cid-s2BRvd7ZVT H2 {
+  text-align: center;
 }
 .cid-rVWgujgqDI {
   padding-top: 30px;
